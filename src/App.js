@@ -2,8 +2,8 @@
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 
 // ** UI
-import Cars from './components/cars/Cars'
-import Dashboard from './components/dashboard/Dashboard'
+import Cars from './views/cars/Cars'
+import Dashboard from './views/dashboard/Dashboard'
 import Layout from './components/shared/Layout'
 
 const App = () => {
